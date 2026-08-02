@@ -1,5 +1,3 @@
 fistr line....line1
 second line......line2
-second line....line2
-second line....line2
-second line....line2
+
